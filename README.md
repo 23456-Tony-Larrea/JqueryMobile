@@ -1,4 +1,4 @@
 # JqueryMobile
 jQueryMobile
 
-el deber se realizo con Anthony Larrea Daniel Vacas Ana Chamba Estephano Gavilanez 
+el deber se realizo con Anthony Larrea Daniel Vacas Ana Chamba Estephano Gavilanez Cristhian Ganchala
